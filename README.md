@@ -38,7 +38,7 @@ cd ../frontend
 npm start
 
 
-## ✨ Features
+# ✨ Features
 
 - 🔗 **Create Short URLs** – Easily shorten long URLs for sharing  
 - 📊 **Track Analytics** – Monitor click counts and usage statistics  
@@ -49,7 +49,7 @@ npm start
 - 🚀 **Version Control** – Fully managed and deployed with Git & GitHub
 
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 - **Frontend:** React.js, HTML5, CSS3, JavaScript  
 - **Backend:** Node.js, Express.js  
@@ -58,7 +58,7 @@ npm start
 - **Deployment:** [Add your deployment platform if any, e.g., Heroku, Vercel]  
 - **Other Tools:** npm, Postman, VS Code
 
-## 🚀 Deployment
+# 🚀 Deployment
 
 The URL Shortener project can be deployed by following these steps:
 
